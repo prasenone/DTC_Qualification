@@ -1,0 +1,7 @@
+numpy==1.21.6  
+pandas==1.3.3  # Stable for data manipulation
+matplotlib==3.4.3  # For visualization purposes
+seaborn==0.11.2  # For advanced statistical plotting
+scikit-learn==1.0.2  # Ensure compatibility with ML workflows
+imblearn==0.9.1  # For handling imbalanced datasets
+tensorflow==2.6.0  
